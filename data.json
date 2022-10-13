@@ -1,0 +1,655 @@
+{
+  "iPhone_Home": [
+    {
+      "id": 1,
+      "name": "iPhone 14 pro max 128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/s16/iPhone-14-Pro-series-%20(1)-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về",
+      "infor": ""
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14 pro 128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/247508/s16/iPhone-14-Pro-topzone%20(4)-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 14",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/240259/s16/iPhone-14-thumb-topzone%20(2)-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 14 plus 128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/245545/s16/iPhone-14-plus-topzone%20(5)-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    }
+  ],
+  "Mac_Home": [
+    {
+      "id": 1,
+      "name": "MacBook Air M2 2022 8-core GPU",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/282827/s16/macbook-air-m2-2022-8-core-gpu-xa%CC%81m-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 2,
+      "name": "MacBook pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/282828/s16/apple-pro-m2-2022-bac-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M1",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/231244/s16/macbook-air-m1-2020-silver-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 4,
+      "name": "MacBook pro 2020",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/231253/s16/macbook-pro-13-silver-m1-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    }
+  ],
+  "Watch_Home": [
+    {
+      "id": 1,
+      "name": "Apple Watch Series 8",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289804/s16/apple-watch-s8-41mm-do-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch SE",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289798/s16/apple-watch-se-2022-44mm-vien-nhom-trang-kem-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch ultra",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289814/s16/apple-watch-s8-ultra-size-m-xanh-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch Series 7",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/250638/s16/apple-watch-s7-gps-45mm-den-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    }
+  ],
+  "Amthanh_Home": [
+    {
+      "id": 1,
+      "name": "AirPods 2 Hộp sạc thường",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/236016/s16/airpods-2-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 2,
+      "name": "AirPods 3",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/250701/s16/airpods-3-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 3,
+      "name": "AirPods pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/236026/s16/12-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 4,
+      "name": "Tai nghe không dây",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/231431/s16/1-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    }
+  ],
+  "Phukien_Home": [
+    {
+      "id": 1,
+      "name": "Sạc Apple",
+      "image": "https://cdn.tgdd.vn/Products/Images/9499/230315/s16/114.34.03-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 2,
+      "name": "Magic Mouse",
+      "image": "https://cdn.tgdd.vn/Products/Images/86/251787/s16/1-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 3,
+      "name": "ốp lứng iPhone 13 pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/60/251642/s16/op-magsafe-iphone-13-pro-apple-mm2y3-nhua-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    },
+    {
+      "id": 4,
+      "name": "Apple TV 4K",
+      "image": "https://cdn.tgdd.vn/Products/Images/9118/238124/s16/apple-tv-4k-64gb-mxh02-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sắp về"
+    }
+  ],
+  "iPhone": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Plus",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/245545/s16/iPhone-14-plus-topzone%20(5)-650x650.png",
+      "price": "30.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "iPhone 14 pro max",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/s16/iPhone-14-Pro-series-%20(1)-650x650.png",
+      "price": "40.000.99đ",
+      "price_old":"50.200.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "iPhone 14 pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/247508/s16/iPhone-14-Pro-topzone%20(4)-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"40.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "iPhone 14",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/240259/s16/iPhone-14-thumb-topzone%20(2)-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"30.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "name": "iPhone 13 Pro Max",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/230529/s16/iphone-13-pro-max-gold-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"30.900.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "iPhone 13 Pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/230521/s16/iphone-13-pro-gold-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"30.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 7,
+      "name": "iPhone 13",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-red-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"20.500.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "iPhone 13 Mini",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/236780/s16/iphone-13-mini-black-650x650.png",
+      "price": "10.000.99đ",
+      "price_old":"20.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 9,
+      "name": "iPhone 12 Mini",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228741/s16/iphone-12-mini-red-1-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"30.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 3
+    },
+    {
+      "id": 10,
+      "name": "iPhone 14 128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/240259/s16/iPhone-14-thumb-topzone%20(2)-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"35.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "name": "iPhone 14 Plus 512gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/289712/s16/iPhone-14-plus-topzone%20(1)-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 12,
+      "name": "iPhone 14 Plus 256gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/289710/s16/iPhone-14-plus-topzone%20(4)-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 13,
+      "name": "DiPhone 14 Pro 1tb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/289696/s16/iPhone-14-Pro-topzone%20(1)-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 14,
+      "name": "iPhone 13 pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/250728/s16/iphone-13-pro-max-grey-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"30.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 15,
+      "name": "iPhone 13 pro 256gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/250259/s16/iphone-13-pro-blue-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 16,
+      "name": "iPhone 13 mini",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/250256/s16/iphone-13-mini-red-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 17,
+      "name": "iPhone 12 mini 128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228742/s16/iphone-12-mini-red-1-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 3
+    },
+    {
+      "id": 18,
+      "name": "iPhone 12 mini 64gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228742/s16/iphone-12-mini-red-1-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 3
+    },
+    {
+      "id": 19,
+      "name": "iPhone 12 256gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228737/s16/iphone-12-green-1-1-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 3
+    },
+    {
+      "id": 20,
+      "name": "iPhone 11 128gb",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/210644/s16/iphone-11-black-1-650x650.png",
+      "price": "20.000.99đ",
+      "price_old":"50.000.000đ",
+      "note": "Hàng sẵn",
+      "category_id": 4
+    }
+  ],
+  "Mac": [
+    {
+      "id": 1,
+      "name": "MacBook Air M2 8 GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/289472/s16/apple-macbook-air-m2-2022-16gb-256gb-va%CC%80ng-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 2,
+      "name": "MacBook Air M2 16 GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/289441/s16/apple-macbook-air-m2-2022-16gb-va%CC%80ng-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "name": "MacBook pro 13inch",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/285958/s16/apple-macbook-pro-m2-2022-16gb-256gb-xa%CC%81m-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "MacBook Air M3 2022",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/282847/s16/apple-macbook-air-m2-2022-10-core-gpu-xam-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "MacBook pro 13inch SSD 512 GB",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/282828/s16/apple-pro-m2-2022-bac-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 6,
+      "name": "MacBook pro 14 inch",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/275442/s16/macbook-pro-14-inch-m1-pro-2021-10-core-cpu-thumb-1-1-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 7,
+      "name": "MacBook pro 14 inch M1",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/275369/s16/macbook-pro-14-inch-m1-pro-2021-32gb-512gb-14-core-gpu-280322-014519-1-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 8,
+      "name": "MacBook pro 15inch",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/263915/s16/macbook-pro-14-m1-max-2021-xam-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 9,
+      "name": "MacBook pro 14 inch M1 MAX",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/263914/s16/macbook-pro-14-m1-max-2021-10-core-cpu-xam-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 10,
+      "name": "MacBook Air M1 2020",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/231250/s16/macbook-air-m1-2020-gold-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 11,
+      "name": "MacBook Pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/231244/s16/macbook-air-m1-2020-silver-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 12,
+      "name": "Mac mini M1 2020",
+      "image": "https://cdn.tgdd.vn/Products/Images/5698/240277/s16/apple-mac-mini-m1-bac-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 3
+    }
+  ],
+  "Watch": [
+    {
+      "id": 1,
+      "name": "Apple Watch S8 dây thép",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289840/s16/apple-watch-s8-lte-41mm-day-thep-xam-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch S8 viền thép",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289832/s16/apple-watch-s8-lte-41mm-vien-thep-xanh-den-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Apple Watch Ultra",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289818/s16/apple-watch-s8-ultra-cao-su-vang-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Apple Watch S8 LTE",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289806/s16/apple-watch-s8-lte-41mm-den-xanh-thumbttz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Apple Watch S8 GPS",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289804/s16/apple-watch-s8-41mm-do-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Apple Watch SE 2020",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289799/s16/apple-watch-se-2022-lte-40mm-den-xanh-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Apple Watch S6 GPS",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289799/s16/apple-watch-se-2022-lte-40mm-den-xanh-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Apple Watch Ultra đại diện",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289611/s16/apple-watch-s8-ultra-alpine-size-s-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 9,
+      "name": "Apple Watch Ultra GPS Đen",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289823/s16/apple-watch-s8-ultra-trail-size-s-black-gray-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 10,
+      "name": "Apple Watch Ultra GPS 2021",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289817/s16/apple-watch-s8-ultra-size-l-cam-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "name": "Apple Watch Ultra GPS 2022",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289821/s16/apple-watch-s8-ultra-trail-size-s-yellow-beige-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 12,
+      "name": "Apple Watch S8 GPS",
+      "image": "https://cdn.tgdd.vn/Products/Images/7077/289844/s16/apple-watch-s8-lte-45mm-day-thep-vang-thumbtz-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    }
+  ],
+  "Amthanh": [
+    {
+      "id": 1,
+      "name": "AirPods 3 sạc lightning",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/290053/s16/airpods-3-hop-sac-khong-day-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "AirPdos pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/289781/s16/airpods-pro-2-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "AirPods 2 Hộp sạc không dây",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/236025/s16/11-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "AirPods Max",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/236331/s16/airpods-max-select-bac-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Tai nghe bluetooth True Wireless",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/269857/s16/true-wireless-beats-fit-pro-earbuds-mk2g3-trang-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Tai nghe không dây beat solo pro",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/256844/s16/beatssoloprokem-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Tai nghe không dây beat solo 3",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/228488/s16/tai-nghe-chup-tai-beats-solo3-mx432-mv8t2-mx472-thumb-2-2-1-2-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 8,
+      "name": "Tai nghe không dây Studio 3",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/228486/s16/tai-nghe-beats-studio-3-do-den-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    }
+  ],
+  "Phukien": [
+    {
+      "id": 1,
+      "name": "Adapter sạc Apple Type C 67W ",
+      "image": "https://cdn.tgdd.vn/Products/Images/9499/287802/s16/adapter-sac-apple-type-c-67w-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Adapter sạc Apple 2 cổng USB-C 35W",
+      "image": "https://cdn.tgdd.vn/Products/Images/9499/284275/s16/adapter-sac-apple-type-c-35w-thumb-1-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Adapter sạc Apple USB-C 20W",
+      "image": "https://cdn.tgdd.vn/Products/Images/9499/230315/s16/114.34.03-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Cáp chuyển đổi USB sang SD",
+      "image": "https://cdn.tgdd.vn/Products/Images/9499/251154/s16/11-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "name": "Ôp lưng iPhone 14 pro max",
+      "image": "https://cdn.tgdd.vn/Products/Images/60/290331/s16/op-lung-magsafe-iphone-14-pro-max-silicone-apple-mpty3-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 6,
+      "name": "ốp lưng nhựa",
+      "image": "https://cdn.tgdd.vn/Products/Images/60/290321/s16/op-lung-magsafe-iphone-14-pro-nhua-trong-apple-mpu63-thumb-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Cáp sạc Apple",
+      "image": "https://cdn.tgdd.vn/Products/Images/58/259292/s16/cap-type-c-lightning-2m-apple-mqgh2-trang-thumb-1-650x650.png",
+      "price": "20.000.99đ",
+      "note": "Hàng sẵn",
+      "category_id": 1
+    }
+  ]
+}

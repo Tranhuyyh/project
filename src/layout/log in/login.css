@@ -1,0 +1,122 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+.Login {
+    position: absolute;
+    top: 15px;
+    right: 50px;
+    width: 30px;
+    height: 30px;
+    background: #3e3e3f;
+    border-radius: 100rem;
+}
+
+.Login i {
+    color: white;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+.cart:hover {
+    background: #7d7d7e;
+    cursor: pointer;
+}
+
+.navigation {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+
+
+
+.abcde {
+    background-color: #3e3e3f;
+    margin: 50px auto;
+    height: 690px;
+    background-color: #ffffff;
+    width: 450px;
+    padding: 30px;
+    border-radius: 10px;
+    height: 690px;
+}
+
+.bar:hover {
+    background: #fff;
+}
+
+input[name="r"] {
+    position: absolute;
+    visibility: hidden;
+}
+
+#r1:checked~.s1 {
+    margin-left: 0;
+}
+
+#r2:checked~.s1 {
+    margin-left: -20%;
+}
+
+#r3:checked~.s1 {
+    margin-left: -40%;
+}
+
+#r4:checked~.s1 {
+    margin-left: -60%;
+}
+
+#r5:checked~.s1 {
+    margin-left: -80%;
+}
+
+.logo03 {
+    width: 10%;
+    margin-top: 0.1%;
+    padding-right: 5px;
+    border-right: 1px solid rgb(103, 97, 97);
+}
+
+.logo04 {
+    width: 2%;
+    margin-top: 0.6%;
+}
+
+.hehe {
+    border-bottom: 1px solid rgb(105, 105, 105);
+}
+
+.Hai {
+    text-decoration: underline;
+    color: rgb(7, 132, 235);
+}
+
+.fb {
+    background-color: rgb(231, 86, 3);
+}
+
+.gg {
+    background-color: rgb(9, 172, 9);
+}
+
+.tt {
+    background-color: rgb(66, 66, 66);
+}
+
+.mauchu {
+    color: #fff;
+}
+
+.mauchuden {
+    color: black;
+}

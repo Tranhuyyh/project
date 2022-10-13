@@ -1,0 +1,128 @@
+a:hover {
+    text-decoration: none;
+}
+
+
+.container_last p {
+    font-size: 15px;
+    color: rgb(239, 239, 239);
+}
+
+.container_last {
+    border-top: 1px solid white;
+    padding-top: 50px;
+}
+
+.Footer {
+
+    background: rgb(0, 0, 0);
+    height: 400px;
+    margin-top: 3%;
+    height: 430px;
+}
+
+.footer_img {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 50px;
+}
+
+.Footer img {
+    margin-left: 1%;
+}
+
+.logo03 {
+    width: 100px;
+    margin-top: 0.1%;
+    padding-right: 5px;
+    border-right: 1px solid rgb(103, 97, 97);
+}
+
+.logo04 {
+    width: 25px;
+    margin-top: 0.6%;
+}
+
+.chu-footer p {
+    font-size: 13px;
+    margin-left: 15px;
+}
+
+.chu-footer span {
+    font-size: large;
+    margin-left: 15px;
+}
+
+.hehe {
+    border-bottom: 1px solid rgb(105, 105, 105);
+}
+
+.chunho {
+    color: #6f6f6f;
+    font-size: 12px;
+    margin-top: 1%;
+    margin-left: 10px;
+    width: 90%;
+}
+
+.contai-fluid1 {
+    width: 100%;
+}
+
+.cuoi {
+    width: 100%;
+    display: flex;
+}
+
+/* .cuoi div {
+    display: inline-block;
+} */
+
+.anhcuoi {
+    width: 58%;
+    margin-left: 150px;
+}
+
+.anhcuoii {
+    width: 120px;
+    margin: 20px 10px;
+}
+
+.Vieclam div {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.vieclam {
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+
+
+.vieclam div {
+    width: 150px;
+    height: 90px;
+}
+
+.vieclam img {
+    width: 100%;
+    height: 100%;
+}
+
+
+.Vieclam div {
+    text-align: center;
+}
+
+h6 {
+    color: #b7b1b1;
+    text-align: center;
+}
+
+.Vieclam {
+    padding-top: 20px;
+    background-color: rgb(46, 46, 46);
+}

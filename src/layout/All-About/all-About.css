@@ -1,0 +1,409 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #3e3e3f !important;
+}
+
+.container-fluid2 {
+    width: 100%;
+
+
+}
+
+.container-fluid3 {
+    width: 90%;
+    margin: 30px auto;
+}
+
+.Video {
+    width: 100%;
+    margin-left: 0px !important;
+}
+
+.img_big {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    display: flex;
+    height: 400px;
+
+
+}
+
+.img_big img {
+    width: 100%;
+    height: 100%;
+
+    transition: all 500ms ease-in-out;
+}
+
+.title1 p {
+    border-bottom-left-radius: 20px;
+    font-size: 15px;
+}
+
+.title2 p {
+    border-bottom-right-radius: 20px;
+    font-size: 15px;
+}
+
+.img_big .demo:hover img {
+    transform: scale(1.5);
+}
+
+.img1 .demo1:hover img {
+    transform: scale(1.5);
+}
+
+.img2 .demo2:hover img {
+    transform: scale(1.5);
+}
+
+.demo {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.demo1 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    border-top-right-radius: 20px;
+}
+
+.demo2 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    border-bottom-right-radius: 20px;
+}
+
+.demo p {
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+    padding: 20px;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 2.68%, rgba(0, 0, 0, .72) 53.2%, rgba(0, 0, 0, .86) 69.35%, #000 86.01%);
+}
+
+.demo1 p {
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 2.68%, rgba(0, 0, 0, .72) 53.2%, rgba(0, 0, 0, .86) 69.35%, #000 86.01%);
+}
+
+.demo2 p {
+    width: 100%;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-100%);
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 2.68%, rgba(0, 0, 0, .72) 53.2%, rgba(0, 0, 0, .86) 69.35%, #000 86.01%);
+}
+
+.img_1 {
+    width: 60%;
+    height: 100%;
+}
+
+.img_2 {
+    width: 40%;
+    height: 100%;
+    margin-left: 50px;
+}
+
+.img1 .demo:hover img {
+    transform: scale(1.5);
+}
+
+.img2 .demo:hover img {
+    transform: scale(1.5);
+}
+
+.img1 {
+    width: 100%;
+    height: 47%;
+    margin-bottom: 21.5px;
+    cursor: pointer;
+}
+
+.img1 img {
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 20px;
+    transition: all 500ms ease-in-out;
+
+}
+
+.img2 {
+    width: 100%;
+    height: 47%;
+    cursor: pointer;
+}
+
+.img2 img {
+    width: 100%;
+    height: 100%;
+    border-bottom-right-radius: 20px;
+    transition: all 500ms ease-in-out;
+}
+
+.menu {
+    display: block;
+    width: 90%;
+    border-radius: 24px;
+    margin: 30px auto;
+    overflow: hidden;
+}
+
+.menu ul {
+    display: flex;
+    width: 100%;
+    margin: 5px 0 40px 0;
+    list-style: none;
+
+}
+
+.n {
+    padding: 8px 55px;
+}
+
+
+.menu ul li {
+    cursor: pointer;
+    width: 180px;
+    height: 60px;
+    background: #323232;
+    box-sizing: border-box;
+    border-radius: 12px;
+    margin-right: 15px;
+    padding: 8px 15px !important;
+    margin: 0 auto;
+}
+
+
+
+.menu ul li p {
+    display: block;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    float: right !important;
+    font-size: 15px;
+    line-height: 45px;
+    color: #fff;
+
+}
+
+.menu ul li p img {
+    width: 50px;
+}
+
+.news {
+    margin-top: 50px;
+
+}
+
+.news h2 {
+    color: white;
+    margin-left: 50px;
+}
+
+.information {
+    display: flex;
+    cursor: pointer;
+    position: relative;
+    width: 90%;
+
+}
+
+.ava {
+    width: 300px;
+    height: 170px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.ava img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.information p {
+    color: rgb(173, 173, 173);
+    font-size: 17px;
+    font-weight: 600;
+    margin-left: 20px;
+    width: 400px;
+}
+
+.information p:hover {
+    color: rgb(255, 255, 255);
+}
+
+hr {
+    margin-left: 50px;
+    margin-right: 400px;
+    background: rgb(112, 110, 110);
+}
+
+.time {
+    position: absolute;
+    top: 100px;
+    left: 370px;
+    color: gray;
+    font-size: 15px;
+}
+
+.xemthem {
+    width: 200px;
+    margin: 50px auto;
+}
+
+.xemthem button {
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+}
+
+.Video {
+    background: black;
+    display: flex;
+    width: 100%;
+}
+
+.video iframe {
+    width: 100%;
+}
+
+.video h2 {
+    padding-top: 50px;
+    color: white;
+    margin-left: 0px;
+
+}
+
+.video p {
+    color: white;
+    font-size: 25px;
+}
+
+.video {
+    margin-left: 50px;
+    width: 65%;
+    height: 550px;
+}
+
+.row01 {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.cachlam {
+    margin-top: 150px;
+    margin-left: 10px;
+    width: 35%;
+    height: 550px;
+}
+
+.cachlam hr {
+    margin-right: 50px !important;
+    margin-left: 0px !important;
+}
+
+.lydo {
+    width: 100%;
+    background: rgb(217, 214, 214);
+    height: 500px;
+}
+
+.lydo h3 {
+    padding-top: 20px;
+    color: black;
+    text-align: center;
+}
+
+.ld1 {
+    width: 30%;
+    margin: 15px;
+    padding: 10px;
+}
+
+.ld1 i {
+    font-size: 40px;
+    padding-bottom: 8px;
+}
+
+.ld1 p {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.ld1 span {
+    font-size: 15px;
+}
+
+.baohanh {
+    background: white;
+    width: 100%;
+    height: 350px;
+}
+
+.baohanh h2 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: black;
+    text-align: center;
+}
+
+.container1 {
+    width: 95%;
+    margin: 0px auto;
+
+}
+
+.container1 row {
+    width: 90%;
+}
+
+.dv1 {
+    text-align: center;
+    width: 90px;
+    margin: 0px 70px;
+}
+
+.dv1 img {
+    text-align: center;
+    width: 90px;
+}
+
+.baohanh {
+    margin-bottom: -5%;
+}

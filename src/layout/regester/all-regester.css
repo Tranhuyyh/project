@@ -1,0 +1,159 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+a:hover {
+    text-decoration: none !important;
+    color: white !important;
+}
+
+main {
+    background: #3e3e3f;
+}
+
+.camket {
+    background: #323232;
+    width: 100%;
+
+    margin-top: 0.05%;
+}
+
+.camket ul li {
+    display: inline-block;
+    padding: 3%;
+    color: #FFF;
+    font-size: 19px;
+}
+
+@media (max-width: 768px) {
+    .iPhone02 {
+        margin-bottom: 50px;
+    }
+}
+
+.cart {
+    position: absolute;
+    top: 15px;
+    right: 100px;
+    width: 30px;
+    height: 30px;
+    background: #3e3e3f;
+    border-radius: 100rem;
+}
+
+.cart i {
+    color: white;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+.Login {
+    position: absolute;
+    top: 15px;
+    right: 50px;
+    width: 30px;
+    height: 30px;
+    background: #3e3e3f;
+    border-radius: 100rem;
+}
+
+.Login i {
+    color: white;
+    padding-left: 8px;
+    padding-top: 8px;
+}
+
+
+.search:hover {
+    background: #7d7d7e;
+    cursor: pointer;
+}
+
+.Login:hover {
+    background: #7d7d7e;
+    cursor: pointer;
+}
+
+.cart:hover {
+    background: #7d7d7e;
+    cursor: pointer;
+}
+
+.navigation {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+}
+
+.bar {
+    width: 10px;
+    height: 10px;
+    border-radius: 100rem;
+    border: 2px solid #fff;
+    margin: 6px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.bar:hover {
+    background: #fff;
+}
+
+input[name="r"] {
+    position: absolute;
+    visibility: hidden;
+}
+
+#r1:checked~.s1 {
+    margin-left: 0;
+}
+
+#r2:checked~.s1 {
+    margin-left: -20%;
+}
+
+#r3:checked~.s1 {
+    margin-left: -40%;
+}
+
+#r4:checked~.s1 {
+    margin-left: -60%;
+}
+
+#r5:checked~.s1 {
+    margin-left: -80%;
+}
+
+.Name {
+    font-size: small;
+    margin-top: 10%;
+    color: rgb(240, 237, 237);
+    margin-bottom: 7%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.abcd {
+    background-color: #ffffff;
+    width: 450px;
+    height: 560px;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 0px 50px;
+}
+
+
+
+.mauchuden {
+    color: black;
+}
+
+.Hai {
+    color: rgb(5, 73, 200)
+}

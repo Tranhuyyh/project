@@ -1,0 +1,108 @@
+/* --------------body----------- */
+
+.iPhone01 {
+    margin-top: 300px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.iPhone02 {
+    width: 105%;
+    padding: 10% 0% 10% 0%;
+    border-radius: 20px;
+    background: #323232;
+    text-align: center;
+
+}
+
+.iPhone02 img {
+    width: 100%;
+    height: 100%;
+}
+
+.Name {
+    font-size: small;
+    margin-top: 10%;
+    color: rgb(240, 237, 237);
+    margin-bottom: 7%;
+}
+
+
+.Price {
+    font-size: large;
+    color: rgb(255, 252, 252);
+    font-weight: bold;
+}
+
+.New {
+    font-size: small;
+    color: rgb(165, 165, 165);
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.Diachi {
+    background: #1c1c1c;
+    margin-top: 3%;
+    border-radius: 40px;
+    padding: 3% 3% 5% 3%;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+
+}
+
+
+
+
+.hehe {
+    border-bottom: 1px solid rgb(105, 105, 105);
+}
+
+
+.Menu01 ul li {
+    display: inline-block;
+    padding: 1% 2%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Menu01 ul li a {
+    color: rgb(190, 195, 200);
+}
+
+.Menu01 ul li a:hover {
+    color: #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+.Menu01 {
+    margin-left: 3%;
+}
+
+.iPhone03 {
+    width: 105%;
+    padding: 10% 8% 10% 8%;
+    border-radius: 20px;
+    background: #323232;
+    text-align: center;
+    margin: 2% 0% 2% 0%;
+
+}
+
+.noilen :hover .iPhone02 {
+    box-shadow: 10px 10px 10px rgb(37, 36, 36);
+    border-radius: 20px;
+}
+
+.noilen :hover .iPhone03 {
+    box-shadow: 10px 10px 10px rgb(37, 36, 36);
+    border-radius: 20px;
+}
+
+.iPhone03 img {
+    width: 80%;
+    height: 100%;
+}
